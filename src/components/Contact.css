@@ -54,14 +54,20 @@
 }
 
 .social-links a {
-    color: white;
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: white;
+    color: var(--primary);
     font-weight: 600;
-    opacity: 0.8;
+    border-radius: 50px;
+    font-size: 0.9rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
 }
 
 .social-links a:hover {
-    opacity: 1;
-    text-decoration: underline;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 .footer {

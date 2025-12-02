@@ -8,21 +8,21 @@ const Projects = () => {
             title: 'Project One',
             description: 'A lovely project that does amazing things.',
             image: 'https://via.placeholder.com/300x200',
-            link: '#',
+            link: 'https://github.com/emirhanyavuzz/',
         },
         {
             id: 2,
             title: 'Project Two',
             description: 'Another sweet application built with love.',
             image: 'https://via.placeholder.com/300x200',
-            link: '#',
+            link: 'https://github.com/emirhanyavuzz/',
         },
         {
             id: 3,
             title: 'Project Three',
             description: 'Creative and colorful design experiment.',
             image: 'https://via.placeholder.com/300x200',
-            link: '#',
+            link: 'https://github.com/emirhanyavuzz/',
         },
     ];
 
