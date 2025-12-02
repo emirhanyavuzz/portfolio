@@ -14,7 +14,7 @@ const Experience = () => {
             id: 2,
             title: 'Tech in Banking Intern',
             company: 'QNB Turkiye',
-            date: 'May 2023 - Aug 2023',
+            date: 'Aug 2025 - Aug 2025',
             description: 'Assisted in building the company website from scratch. Gained experience in HTML, CSS, and JavaScript.',
         },
         {
