@@ -1,0 +1,28 @@
+.about-section {
+    background-color: var(--white);
+}
+
+.about-content {
+    display: flex;
+    justify-content: center;
+}
+
+.about-card {
+    background: var(--background);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    max-width: 800px;
+    text-align: center;
+    border: 2px solid var(--secondary);
+}
+
+.about-card p {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    color: var(--text);
+}
+
+.about-card p:last-child {
+    margin-bottom: 0;
+}

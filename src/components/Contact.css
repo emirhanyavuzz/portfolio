@@ -1,0 +1,73 @@
+.contact-section {
+    background-color: var(--white);
+    padding-bottom: 0;
+}
+
+.contact-content {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.contact-card {
+    background: linear-gradient(135deg, var(--secondary) 0%, var(--primary) 100%);
+    padding: 50px;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+    max-width: 600px;
+    box-shadow: 0 10px 30px rgba(255, 183, 178, 0.5);
+}
+
+.contact-card h3 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.contact-card p {
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+    opacity: 0.9;
+}
+
+.contact-button {
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: white;
+    color: var(--primary);
+    font-weight: 700;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-bottom: 30px;
+}
+
+.contact-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-links a {
+    color: white;
+    font-weight: 600;
+    opacity: 0.8;
+}
+
+.social-links a:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+.footer {
+    text-align: center;
+    padding: 30px 0;
+    background-color: var(--background);
+    color: var(--text-light);
+    font-size: 0.9rem;
+}
