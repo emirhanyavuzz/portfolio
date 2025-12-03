@@ -14,7 +14,7 @@ Güvenli — HTTPS, güvenilir yapı, sıfır backend riski
 
 Bu portfolyo şu teknolojilerle oluşturulmuştur:
 
-React / Vite / JavaScript
+HTML / CSS / JavaScript
 
 GitHub Pages (hosting)
 
