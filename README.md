@@ -1,5 +1,7 @@
 **Modern ve Minimal Kişisel Portfolyo Websitesi**
 
+https://emirhanyavuzz.github.io/emirhanyavuz.github.io
+
 ✨ **Özellikler**
 
 Hızlı ve hafif — statik yapı, optimize görseller, minimal JS
@@ -22,14 +24,11 @@ Görsel optimizasyon: WebP, Lazy Loading
 
 Tasarım: Minimal UI + micro-interactions
 
+
 🚀 **Deploy**
 
 Bu proje GitHub Pages üzerinden yayınlanmaktadır.
 
-Branch: gh-pages
-
-URL: https://emirhanyavuzz.github.io/emirhanyavuz.github.io
- 
 
 📸 **Ekran Görüntüsü**
 
@@ -43,6 +42,7 @@ E-posta: yavuz.emirhan@outlook.com
 LinkedIn: https://linkedin.com/in/emirhan-yavuz-ba8821222
 
 GitHub: https://github.com/emirhanyavuzz
+
 
 Her türlü iş, işbirliği için iletişime geçebilirsin.
 
