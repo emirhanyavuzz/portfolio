@@ -1,16 +1,16 @@
 Modern. Minimal.
 
-✨ Özellikler
+✨ *Özellikler*
 
-🚀 Hızlı ve hafif — statik yapı, optimize görseller, minimal JS
+Hızlı ve hafif — statik yapı, optimize görseller, minimal JS
 
-🎨 Modern tasarım — sade tipografi, temiz layout, tutarlı renk paleti
+Modern tasarım — sade tipografi, temiz layout, tutarlı renk paleti
 
-📱 Tam responsive — Mobil, tablet ve masaüstünde kusursuz görünüm
+Tam responsive — Mobil, tablet ve masaüstünde kusursuz görünüm
 
-🔐 Güvenli — HTTPS, güvenilir yapı, sıfır backend riski
+Güvenli — HTTPS, güvenilir yapı, sıfır backend riski
 
-🛠️ Teknolojiler
+🛠️ *Teknolojiler*
 
 Bu portfolyo şu teknolojilerle oluşturulmuştur:
 
@@ -22,7 +22,7 @@ Görsel optimizasyon: WebP, Lazy Loading
 
 Tasarım: Minimal UI + micro-interactions
 
-🚀 Deploy
+🚀 *Deploy*
 
 Bu proje GitHub Pages üzerinden yayınlanmaktadır.
 
@@ -33,11 +33,11 @@ URL: https://kullaniciadi.github.io/
 
 İstersen Netlify/Vercel’e tek tıkla da deploy edebilirsin.
 
-📸 Ekran Görüntüsü
+📸 *Ekran Görüntüsü*
 
 Portfolyo arayüzünden bir ekran görüntüsü eklemek istersen buraya koyabilirsin.
 
-📬 İletişim
+📬 *İletişim*
 
 E-posta: yavuz.emirhan@outlook.com
 
@@ -47,7 +47,7 @@ GitHub: https://github.com/emirhanyavuzz
 
 Her türlü iş, işbirliği için iletişime geçebilirsin.
 
-⚡ Son Söz
+⚡ *Son Söz*
 
 “Good design is intelligence made visible.” — Alina Wheeler
 
