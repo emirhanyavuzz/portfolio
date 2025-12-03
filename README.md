@@ -1,16 +1,55 @@
-# React + Vite
+Modern. Minimal.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Özellikler
 
-Currently, two official plugins are available:
+🚀 Hızlı ve hafif — statik yapı, optimize görseller, minimal JS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Modern tasarım — sade tipografi, temiz layout, tutarlı renk paleti
 
-## React Compiler
+📱 Tam responsive — Mobil, tablet ve masaüstünde kusursuz görünüm
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔐 Güvenli — HTTPS, güvenilir yapı, sıfır backend riski
 
-## Expanding the ESLint configuration
+🛠️ Teknolojiler
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Bu portfolyo şu teknolojilerle oluşturulmuştur:
+
+React / Vite / JavaScript
+
+GitHub Pages (hosting)
+
+Görsel optimizasyon: WebP, Lazy Loading
+
+Tasarım: Minimal UI + micro-interactions
+
+🚀 Deploy
+
+Bu proje GitHub Pages üzerinden yayınlanmaktadır.
+
+Branch: gh-pages
+
+URL: https://kullaniciadi.github.io/
+ (veya projeye göre düzenle)
+
+İstersen Netlify/Vercel’e tek tıkla da deploy edebilirsin.
+
+📸 Ekran Görüntüsü
+
+Portfolyo arayüzünden bir ekran görüntüsü eklemek istersen buraya koyabilirsin.
+
+📬 İletişim
+
+E-posta: yavuz.emirhan@outlook.com
+
+LinkedIn: https://linkedin.com/in/emirhan-yavuz-ba8821222
+
+GitHub: https://github.com/emirhanyavuzz
+
+Her türlü iş, işbirliği için iletişime geçebilirsin.
+
+⚡ Son Söz
+
+“Good design is intelligence made visible.” — Alina Wheeler
+
+Bu portfolyo, hem teknik yeteneğimi hem de tasarım anlayışımı yansıtan kişisel bir vitrin.
+Geliştirmeye, öğrenmeye ve daha iyisini yapmaya hep açığım.
