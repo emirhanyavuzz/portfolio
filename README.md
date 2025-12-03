@@ -33,7 +33,8 @@ URL: https://emirhanyavuzz.github.io/emirhanyavuz.github.io
 
 📸 *Ekran Görüntüsü*
 
-Portfolyo arayüzünden bir ekran görüntüsü eklemek istersen buraya koyabilirsin.
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/037de214-2e9b-4069-90a3-dc09cb3dec24" />
+
 
 📬 *İletişim*
 
@@ -46,8 +47,6 @@ GitHub: https://github.com/emirhanyavuzz
 Her türlü iş, işbirliği için iletişime geçebilirsin.
 
 ⚡ *Son Söz*
-
-“Good design is intelligence made visible.” — Alina Wheeler
 
 Bu portfolyo, hem teknik yeteneğimi hem de tasarım anlayışımı yansıtan kişisel bir vitrin.
 Geliştirmeye, öğrenmeye ve daha iyisini yapmaya hep açığım.
