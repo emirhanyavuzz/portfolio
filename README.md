@@ -1,7 +1,7 @@
 **Modern ve Minimal Kişisel Portfolyo Websitesi**
 
 
-https://emirhanyavuzz.github.io/emirhanyavuz.github.io
+https://emirhanyavuzz.github.io/portfolio/
 
 
 ✨ **Özellikler**
