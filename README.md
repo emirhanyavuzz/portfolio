@@ -1,6 +1,8 @@
 **Modern ve Minimal Kişisel Portfolyo Websitesi**
 
+
 https://emirhanyavuzz.github.io/emirhanyavuz.github.io
+
 
 ✨ **Özellikler**
 
@@ -44,5 +46,5 @@ LinkedIn: https://linkedin.com/in/emirhan-yavuz-ba8821222
 GitHub: https://github.com/emirhanyavuzz
 
 
-Her türlü iş, işbirliği için iletişime geçebilirsin.
+Her türlü iş, işbirliği için iletişime geçebilirsiniz
 
