@@ -5,24 +5,24 @@ const Projects = () => {
     const projects = [
         {
             id: 1,
-            title: 'Project One',
-            description: 'A lovely project that does amazing things.',
+            title: 'Mini Game Library',
+            description: 'A game library with many handcrafted mini games',
             image: 'https://via.placeholder.com/300x200',
             link: 'https://github.com/emirhanyavuzz/',
         },
         {
             id: 2,
-            title: 'Project Two',
-            description: 'Another sweet application built with love.',
+            title: 'Automation Project for Instagram',
+            description: 'Automatic reels creator using AI pipeline',
             image: 'https://via.placeholder.com/300x200',
             link: 'https://github.com/emirhanyavuzz/',
         },
         {
             id: 3,
-            title: 'Project Three',
-            description: 'Creative and colorful design experiment.',
+            title: 'ADSB Project for Aircrafts',
+            description: 'An aircraft tracking system that designed on the map by pulling the location data of the aircraft from the API.',
             image: 'https://via.placeholder.com/300x200',
-            link: 'https://github.com/emirhanyavuzz/',
+            link: 'https://github.com/emirhanyavuzz/ADSB_project',
         },
     ];
 
