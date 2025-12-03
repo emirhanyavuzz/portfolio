@@ -38,7 +38,7 @@ const Navbar = () => {
           <li onClick={() => scrollToSection('projects')}>Projects</li>
           <li onClick={() => scrollToSection('contact')}>Contact</li>
           <li>
-            <a href="/cv.pdf" target="_blank" rel="noopener noreferrer" className="resume-button">
+            <a href={`${import.meta.env.BASE_URL}cv.pdf`} target="_blank" rel="noopener noreferrer" className="resume-button">
               Resume
             </a>
           </li>
