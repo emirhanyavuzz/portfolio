@@ -21,7 +21,7 @@ const Projects = () => {
             id: 3,
             title: 'ADSB Project for Aircrafts',
             description: 'An aircraft tracking system that designed on the map by pulling the location data of the aircraft from the API.',
-            image: 'images/adsb_project_example_ss.png',
+            image: 'images/adsb_ss.png',
             link: 'https://github.com/emirhanyavuzz/ADSB_project',
         },
         {
