@@ -30,7 +30,7 @@ const Achievements = () => {
             title: 'ALES-SAY',
             score: '94',
             description: 'Academic Personnel and Graduate Education Entrance Exam',
-            icon: 'images/sayisal.png'
+            icon: 'images/say.png'
         },
         {
             id: 5,
