@@ -9,7 +9,7 @@ const Hero = () => {
                     <span className="greeting">Hello there! 👋</span>
                     <h1 className="hero-title">I'm <span className="highlight">Emirhan</span></h1>
                     <p className="hero-subtitle">
-                        A passionate developer creating strong and reliable digital products.
+                        A passionate engineer creating strong and reliable projects.
                     </p>
                     <button className="cta-button" onClick={() => document.getElementById('projects').scrollIntoView({ behavior: 'smooth' })}>
                         See My Work
@@ -18,7 +18,7 @@ const Hero = () => {
                 <div className="hero-image">
                     <div className="blob"></div>
                     {/* Placeholder for user image */}
-                    <img src={`${import.meta.env.BASE_URL}images/profile_photo.png`} alt="Profile" className="profile-img" />
+                    <img src={`images/profile_photo.png`} alt="Profile" className="profile-img" />
                 </div>
             </div>
             <div className="custom-shape-divider-bottom-1668170000">
