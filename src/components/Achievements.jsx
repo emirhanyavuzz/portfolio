@@ -8,35 +8,36 @@ const Achievements = () => {
             title: 'YKS-SAY',
             score: '1180th',
             description: 'University Entrance Exam',
-            icon: 'images/sayisal.png'
+            icon: <img src={`${import.meta.env.BASE_URL}images/sayisal.jpg`} alt="Profile" className="profile-img" />
+
         },
         {
             id: 2,
             title: 'YKS-SOZ',
             score: '289th',
             description: 'University Entrance Exam',
-            icon: 'images/sozel.png'
+            icon: <img src={`${import.meta.env.BASE_URL}images/sozel.png`} alt="Profile" className="profile-img" />
         },
         {
             id: 3,
             title: 'TOEIC',
             score: '815',
             description: 'Foreign Language Exam (English)',
-            icon: 'images/dil.png'
+            icon: <img src={`${import.meta.env.BASE_URL}images/dil.png`} alt="Profile" className="profile-img" />
         },
         {
             id: 4,
             title: 'ALES-SAY',
             score: '94',
             description: 'Academic Personnel and Graduate Education Entrance Exam',
-            icon: 'images/sayisal.png'
+            icon: <img src={`${import.meta.env.BASE_URL}images/sayisal.png`} alt="Profile" className="profile-img" />
         },
         {
             id: 5,
             title: 'Bachelor\'s Degree',
             score: '3.02 GPA',
             description: 'Computer Engineering',
-            icon: 'images/tobb_logo.png'
+            icon: <img src={`${import.meta.env.BASE_URL}images/tobb_logo.png`} alt="Profile" className="profile-img" />
         }
     ];
 
