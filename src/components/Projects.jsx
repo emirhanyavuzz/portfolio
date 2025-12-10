@@ -7,7 +7,7 @@ const Projects = () => {
             id: 1,
             title: 'Mini Game Library',
             description: 'A game library with many handcrafted mini games',
-            image: '',
+            image: 'images/miniGamesMenu.png',
             link: 'https://github.com/emirhanyavuzz/Mini-Game-Library',
         },
         {
