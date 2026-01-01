@@ -51,12 +51,14 @@ button {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--primary);
+  background: rgba(32, 178, 170, 0.7);
+  /* Slightly transparent primary color */
   border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--secondary);
+  background: var(--primary);
+  /* Solid primary color on hover */
 }
 
 .container {

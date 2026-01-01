@@ -54,6 +54,10 @@
     width: 100%;
 }
 
+.nav-links li.resume-item::after {
+    display: none;
+}
+
 .resume-button {
     padding: 8px 20px;
     border: 2px solid var(--primary);
