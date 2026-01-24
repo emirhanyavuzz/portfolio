@@ -1,20 +1,76 @@
 .projects-section {
     background-color: #fff5f5;
-    /* Very light pink background */
 }
 
-.projects-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+.projects-carousel-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+}
+
+.carousel-arrow {
+    flex-shrink: 0;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    z-index: 10;
+}
+
+.carousel-arrow svg {
+    width: 24px;
+    height: 24px;
+    color: white;
+}
+
+.carousel-arrow:hover:not(.disabled) {
+    transform: scale(1.1);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-arrow:active:not(.disabled) {
+    transform: scale(0.95);
+}
+
+.carousel-arrow.disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    background: linear-gradient(135deg, #999, #bbb);
+}
+
+.projects-carousel {
+    display: flex;
     gap: 30px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    padding: 20px 10px;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
+.projects-carousel::-webkit-scrollbar {
+    display: none;
+}
+
+/* Project Cards */
 .project-card {
+    flex: 0 0 320px;
+    min-width: 320px;
     background: var(--white);
     border-radius: 20px;
     overflow: hidden;
     box-shadow: var(--shadow);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    scroll-snap-align: start;
 }
 
 .project-card:hover {
@@ -52,6 +108,7 @@
     color: var(--text-light);
     margin-bottom: 20px;
     font-size: 1rem;
+    min-height: 48px;
 }
 
 .project-link {
@@ -67,4 +124,38 @@
 .project-link:hover {
     background-color: var(--primary);
     color: white;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .carousel-arrow {
+        width: 40px;
+        height: 40px;
+    }
+
+    .carousel-arrow svg {
+        width: 20px;
+        height: 20px;
+    }
+
+    .project-card {
+        flex: 0 0 280px;
+        min-width: 280px;
+    }
+
+    .projects-carousel-wrapper {
+        gap: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .carousel-arrow {
+        width: 35px;
+        height: 35px;
+    }
+
+    .project-card {
+        flex: 0 0 260px;
+        min-width: 260px;
+    }
 }
