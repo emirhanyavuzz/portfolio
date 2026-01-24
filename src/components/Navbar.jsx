@@ -39,7 +39,7 @@ const Navbar = () => {
           <li onClick={() => scrollToSection('contact')}>Contact</li>
           <li className="resume-item">
             <a href={`${import.meta.env.BASE_URL}Emirhan_Yavuz_CV.pdf`} target="_blank" rel="noopener noreferrer" className="resume-button">
-              Resume
+              CV
             </a>
           </li>
         </ul>
