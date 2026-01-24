@@ -48,7 +48,7 @@ const Projects = () => {
         {
             id: 7,
             title: 'Military Operations Simulator',
-            description: 'Centralized Military Units Command and Control Simulation',
+            description: 'Centralized Command and Control Simulation for Military Units',
             image: 'images/military_operation_sim_ss.png',
             link: 'https://github.com/emirhanyavuzz/Harekat-Simulator-Project',
         },
