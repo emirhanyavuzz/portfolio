@@ -26,7 +26,7 @@ const Projects = () => {
         },
         {
             id: 4,
-            title: 'Yerli Fon Analiz Platformu',
+            title: 'Investment Fund Analysis Platform in Turkey',
             description: 'A project that collects, analyzes, and visualizes price data of investment funds (TEFAS, BEFAS, BYF) in Turkey, presenting insights through an interactive interface.',
             image: 'images/tefas_befas_proje_ss.png',
             link: 'https://github.com/emirhanyavuzz/Tefas-Big-Data',
